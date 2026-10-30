@@ -4,9 +4,9 @@ Welcome to the **Luminair-cms** GitHub organization.
 
 ## 📖 Documentation
 
-All project documentation is maintained in the **documentation** repository:
+All project documentation is maintained there:
 
-➡️ **https://github.com/luminair-cms/documentation**
+➡️ **[https://github.com/luminair-cms/luminair-system/documentation](https://github.com/luminair-cms/luminair-system/tree/main/docs)**
 
 There you will find:
 
