@@ -5,8 +5,10 @@ Welcome to the **Luminair-cms** GitHub organization.
 ## 📖 Documentation
 
 All project documentation is maintained there:
+**[readme.MD](https://github.com/luminair-cms/luminair-system/blob/main/readme.MD)**
 
-➡️ **[https://github.com/luminair-cms/luminair-system/documentation](https://github.com/luminair-cms/luminair-system/tree/main/docs)**
+and there
+**[https://github.com/luminair-cms/luminair-system/documentation](https://github.com/luminair-cms/luminair-system/tree/main/docs)**
 
 There you will find:
 
